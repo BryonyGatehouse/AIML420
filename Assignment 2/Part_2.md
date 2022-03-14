@@ -16,4 +16,7 @@ which could be simplified to:
 (a^2 - a)^2 + 1
 ```
 
-![formula](Formula)
+
+Image            | Explanation
+:-------------------------:|:-------------------------:
+![Formula](Formula.png)  |  The genetic program was able to find a non-normal quartic equation (red line) that fitted the coordinates (black crosses) perfectly. Notice the hump in the coordinates which is why the equation had to differ.
