@@ -16,4 +16,4 @@ which could be simplified to:
 (a^2 - a)^2 + 1
 ```
 
-![formula](Formula.png)
+![formula](Formula)
