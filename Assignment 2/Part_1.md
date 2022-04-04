@@ -1,4 +1,4 @@
-Assignment 2, Part 1 : Neural Network
+# Assignment 2, Part 1 : Neural Network
 
 Create a neural network which can classify types of penguin based on their physical details (bill length, etc). 
 
